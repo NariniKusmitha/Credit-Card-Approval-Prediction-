@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Credit Card Approval Prediction Web Application
 
 An end-to-end Machine Learning classification web application that predicts credit card approval decisions in real-time. The system evaluates candidate risk profiles based on Gender, Income Type, Annual Income, Employment Duration, and Education Level.
@@ -152,3 +153,6 @@ git push -u origin main
 # Credit-Card-Approval-Prediction
 Credit Card Approval Prediction it shows the approval accept or reject
 >>>>>>> 9aabc2705bb29155a423b0968428b47e57cf21c5
+=======
+# Credit-Card-Approval-Prediction-
+>>>>>>> 710d72e8fe95089ec26a017b7941b64883d33eaf
